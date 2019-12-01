@@ -1,13 +1,11 @@
-﻿using System;
-using Prism.Ioc;
+﻿using Prism.Ioc;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 using Prism.Unity;
-using XamarinPrismRprop.ViewModels;
 using Prism;
-using XamarinPrismRprop.Views;
+using Sample.Views;
+using Sample.ViewModels;
 
-namespace XamarinPrismRprop
+namespace Sample
 {
     public partial class App:PrismApplication
     {

@@ -9,7 +9,7 @@ using Android.OS;
 using Prism;
 using Prism.Ioc;
 
-namespace XamarinPrismRprop.Droid
+namespace Sample.Droid
 {
     [Activity(Label = "XamarinPrismRprop", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

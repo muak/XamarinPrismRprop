@@ -2,7 +2,7 @@
 using Prism.Mvvm;
 using Reactive.Bindings;
 
-namespace XamarinPrismRprop.ViewModels
+namespace Sample.ViewModels
 {
     public class MainPageViewModel:BindableBase
     {

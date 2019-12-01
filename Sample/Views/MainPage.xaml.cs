@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using Xamarin.Forms;
 
-namespace XamarinPrismRprop.Views
+namespace Sample.Views
 {
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage

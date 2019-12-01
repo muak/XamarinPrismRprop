@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace XamarinPrismRprop.iOS
+namespace Sample.iOS
 {
     public class Application
     {
